@@ -11,9 +11,9 @@ A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
 foi utilizado para hospedagem do repositório.
 
-O projeto segue a seguinte convenção para o nome de branchs:
+O projeto segue a seguinte convenção para o nome de branches:
 
-- `master`: versão estável já testada do software
+- `main`: versão estável já testada do software
 - `unstable`: versão já testada do software, porém instável
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
@@ -62,7 +62,7 @@ As ferramentas empregadas no projeto são:
 
 - Editor de código.
 - Ferramentas de comunicação
-- Ferramentas de diagramação
+- Ferramentas de desenho de tela (_wireframing_)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
